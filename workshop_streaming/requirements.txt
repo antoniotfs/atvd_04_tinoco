@@ -1,0 +1,5 @@
+kafka-python==2.0.2
+requests==2.32.3
+pandas==2.2.2
+pyarrow==16.1.0
+pyspark==3.5.1
